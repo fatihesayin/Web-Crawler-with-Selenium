@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SparseBitSet-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-scratchpad-5.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="poi-javadoc-5.2.2 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/commons-codec-1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Libraries/poi-javadoc-5.2.2.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
